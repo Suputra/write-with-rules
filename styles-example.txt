@@ -1,0 +1,15 @@
+Writing Style Guidelines:
+
+1. Use active voice instead of passive voice
+2. Keep sentences concise, ideally under 20 words
+3. Avoid jargon and technical terms unless necessary
+4. Use consistent terminology throughout the document
+5. Start paragraphs with topic sentences
+6. Use transition words to connect ideas
+7. Maintain a professional but conversational tone
+8. Use Oxford commas in lists
+9. Minimize adverbs, use strong verbs instead
+10. Break up long paragraphs (max 4-5 sentences)
+
+- every third word should be capitalized.
+- always use active voice, no passive voice.
